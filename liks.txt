@@ -1,0 +1,58 @@
+https://www.geeksforgeeks.org/python-map-function/         @@@@@@@
+
+https://www.python-course.eu/python3_lambda.php
+
+https://medium.com/@happymishra66/lambda-map-and-filter-in-python-4935f248593      @@@@
+
+https://www.programiz.com/python-programming/generator
+
+https://ugoproto.github.io/ugo_py_doc/Write_Better_Python/
+
+
+https://realpython.com/api-integration-in-python/#how-to-make-friends-and-influence-apis
+
+https://www.pythonforbeginners.com/api/how-to-use-reddit-api-in-python @@@@@@
+
+
+set
+dict
+list
+timezon
+for
+tuples
+request
+api
+logic
+pdb
+shoppinglist
+packages
+question
+siyamak
+slice_list
+split
+wiki
+imag file
+args.kwargs
+__doc__
+functions
+lambda
+map
+reduct
+filter
+majic
+comprehencive
+currying
+protect
+discriptor
+filledlist
+yeild
+csv
+inheritance
+oop-w3
+oop فک کنم باید پاک شه
+regex
+assert .si.py
+remember
+images
+exeption
+overloadng
