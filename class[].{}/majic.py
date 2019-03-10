@@ -75,7 +75,10 @@ class Numstring:
     def __radd__(self, other):
         return self + other
 
-        # 
-   
+    
+a = Numstring(5)
+print (a + 5)
+print (a + 5.5555)
+print ( 4.55+ a)  
 
 

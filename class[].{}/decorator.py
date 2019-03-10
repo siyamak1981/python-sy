@@ -148,7 +148,8 @@ print(x)
 # 2
 # 1
 # 0
-# test.py:8: DeprecationWarning: time.clock has been deprecated in Python 3.3 and will be removed from Python 3.8: use time.perf_counter or time.process_time instead
+# test.py:8: DeprecationWarning: time.clock has been deprecated in Python 3.3
+#  and will be removed from Python 3.8: use time.perf_counter or time.process_time instead
 #   stop= time.clock()
 # 7.799999999999474e-05
 # 0.0002680749999999926

@@ -12,7 +12,7 @@ https://ugoproto.github.io/ugo_py_doc/Write_Better_Python/
 https://realpython.com/api-integration-in-python/#how-to-make-friends-and-influence-apis
 
 https://www.pythonforbeginners.com/api/how-to-use-reddit-api-in-python @@@@@@
-
+https://blog.faradars.org/histograms-and-density-plots-in-python/
 
 set
 dict

@@ -110,7 +110,16 @@ show_person_info(name='Hamidreza',  family='Mahdavipanah',
 # name = Hamidreza
 # family = Mahdavipanah
 # age = 22
-
+################################33
+from copy import copy
+u = [1, 2, 5]
+d = copy(u)
+f=d.append(4)
+print (d)
+print (u)
+# out:
+# [1, 2, 5, 4]
+# [1, 2, 5]
 
 
 

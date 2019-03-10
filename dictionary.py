@@ -103,3 +103,32 @@ p=New()
 print(p.Print())
 # out:
 # {'name': 'siyamak', 'familyname': 'abasnezhad'}
+
+
+mydict = {}
+while True:
+    value = input ("pleaze insert your value : \n")
+    key = input("please insert your key : \n")
+    mydict[key] = value
+    user=input("do u want to contenue write y else n to exit:\n")
+    if user =="n":
+        print("finished")
+        print (mydict)
+        break
+    else:
+        continue
+
+
+# out
+# please insert your key :
+# rth
+# do u want to contenue write y else n to exit:
+# trh
+# pleaze insert your value :
+# rtg
+# please insert your key :
+# rt
+# do u want to contenue write y else n to exit:
+# n
+# finished
+# {'rth': 'rth', 'rt': 'rtg'}
