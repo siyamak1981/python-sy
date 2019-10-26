@@ -82,3 +82,49 @@ print (a + 5.5555)
 print ( 4.55+ a)  
 
 
+# ####################################33
+
+
+class Item:
+    def __init__(self, fruit, color):
+        self.fruit = fruit
+        self.color = color
+    def __str__(self):
+        return '{} are {}'.format(self.fruit, self.color)
+
+class Organize(Item):
+    def __init__(self, fruit, color, count):
+        super().__init__(fruit, color)
+        self.count = count
+
+
+class Sell():
+    def __init__(self):
+        self.selling = []
+    
+    def add(self,item):
+        self.selling.append(item)
+    
+
+    def __len__(self):
+        return len(self.selling)
+
+    
+    def __contains__(self, item):
+        return item in self.selling
+            
+    def __iter__(self):
+        for item in self.selling:
+            yield item
+            
+    
+    def __getitem__(self):
+        pass
+    
+
+
+# x = Organize("apple","red",3585)
+# y = Sell()
+# print(y.add(x))
+# for i in y:
+    # print(i.color)
